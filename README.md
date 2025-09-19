@@ -10,3 +10,7 @@ This Game features
 <img width="960" height="600" alt="Carnival 3" src="https://github.com/user-attachments/assets/5e717f59-3f0a-4a77-a538-3c9768545948" />
 
 - A ticketing system: win tickets at the minigames, then cash them in for cute accessories at the central store.
+
+<img width="960" height="600" alt="image" src="https://github.com/user-attachments/assets/1bbc8151-9559-4805-b34c-716a541ce5ba" />
+<img width="960" height="600" alt="Carnival 4" src="https://github.com/user-attachments/assets/383e5aaa-38f5-434b-9bfe-700d71558568" />
+
